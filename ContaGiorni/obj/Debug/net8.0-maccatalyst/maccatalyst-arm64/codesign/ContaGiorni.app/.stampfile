@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/cdigruttol001/contagiorni/ContaGiorni/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/cdigruttol001/contagiorni/ContaGiorni/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/ContaGiorni.app
