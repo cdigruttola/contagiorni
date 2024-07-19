@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContaGiorni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+27667d97203e6cc2b16f30782c0124464c052b21")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContaGiorni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContaGiorni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
